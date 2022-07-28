@@ -11,9 +11,7 @@
 
 Unity Package Template is a github repository containing a unity package for reusable template when creating unity packages.
 
-To use this package simply add from unity package manager or follow the installation process below.
-
-After that just read the rest of the Readme below and read documentation to know more.
+To use this package simply use the add green "Use this template" button above.
 
 If there are any questions feel free to message me here!
 
